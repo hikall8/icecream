@@ -65226,7 +65226,7 @@ A.Mj.prototype={}
 A.Mv.prototype={}
 A.tc.prototype={
 am(){var s=t.N
-return new A.Is(A.aI(["\ud83c\udf66 \u30bd\u30d5\u30c8\u30af\u30ea\u30fc\u30e0\uff08\u30b3\u30fc\u30f3\u4ed8\u304d\uff09",450,"\ud83c\udf66 \u30a2\u30a4\u30b9\u30af\u30ea\u30fc\u30e0\uff08\u30b3\u30fc\u30f3\u4ed8\u304d\uff09",400,"\ud83c\udf67 \u304b\u304d\u6c37\uff08\u590f\u9650\u5b9a\uff09",300],s,t.S),A.as(s))}}
+return new A.Is(A.aI(["\ud83c\udf69 \u30c1\u30e7\u30b3\u30c9\u30fc\u30ca\u30c4",450,"\ud83c\udf69 \u30b7\u30e5\u30ac\u30fc\u30c9\u30fc\u30ca\u30c4",400,"\ud83e\uddc1 \u30ab\u30c3\u30d7\u30b1\u30fc\u30ad\uff08\u671f\u9593\u9650\u5b9a\uff09",300],s,t.S),A.as(s))}}
 A.Is.prototype={
 gkR(){var s,r=this.e
 if(r===$){s=this.d
@@ -65246,15 +65246,15 @@ b=A.k(c).h("aR<1>")
 n=e.a2S(A.CV(new A.aR(c,b),new A.a56(e),b.h("p.E"),t.N),e.gkR()+" "+A.m(c.i(0,e.gkR()))+"\u5186",new A.a57(e))
 c=t.c
 b=A.d([],c)
-for(m=["\ud83c\udf53","\ud83c\udf52","\ud83c\udf4c","\ud83e\udd5d","\ud83c\udf47"],l=0;l<5;++l){k=m[l]
+for(m=["\ud83c\udf6b","\ud83c\udf53","\ud83c\udf6f","\ud83e\udd5c","\ud83c\udf6c"],l=0;l<5;++l){k=m[l]
 b.push(new A.C_(A.mr(k,d),s.n(0,k),new A.a58(e,k),d))}j=A.ahc(b,6)
 b=new A.a5c(e)
-i=A.aaR(A.d([b.$3("\ud83e\udd44 \u30b9\u30d7\u30fc\u30f3\uff08\u7121\u6599\uff09",e.r,new A.a59(e)),b.$3("\ud83e\uddfb \u7d19\u30ca\u30d7\u30ad\u30f3\uff08\u7121\u6599\uff09",e.w,new A.a5a(e))],c),B.aQ,B.bm)
+i=A.aaR(A.d([b.$3("\ud83c\udf74 \u30d5\u30a9\u30fc\u30af\uff08\u7121\u6599\uff09",e.r,new A.a59(e)),b.$3("\ud83d\udecd\ufe0f \u6301\u3061\u5e30\u308a\u888b\uff08\u7121\u6599\uff09",e.w,new A.a5a(e))],c),B.aQ,B.bm)
 h=A.aaR(A.d([A.mr("\u7a0e\u629c "+r+" \u5186 / \u6d88\u8cbb\u7a0e "+q+" \u5186",d),A.mr("\u5408\u8a08 "+p+" \u5186",B.KF)],c),B.cb,B.bm)
-g=A.np(new A.BZ(new A.a5b(e,q,p),d,d,d,d,B.M,d,!1,d,d,B.LK,d),d,d)
+g=A.np(new A.BZ(new A.a5b(e,q,p),d,d,d,d,B.M,d,!1,d,d,B.LJ,d),d,d)
 b=e.x
 f=b===0?B.dD:new A.AA(new A.hm(B.kw,A.aaR(A.d([A.mr("\u6ce8\u6587\u756a\u53f7 #"+b,B.Ju),A.mr(e.y,d)],c),B.aQ,B.bm),d),d)
-c=A.d([A.np(o,d,d),B.LH,n,B.LG,j,B.LJ,i,B.zm,h,g,f],c)
+c=A.d([A.np(o,d,d),B.LG,n,B.LK,j,B.LH,i,B.zm,h,g,f],c)
 b=A.aI([null,0],t.LO,t.S)
 return new A.v3(new A.qA(B.LI,new A.JY(d,d,1/0,56),d),new A.CO(new A.a03(!0,!0,!0,c,b),B.kw,B.bi,!1,d,d,B.wv,!1,d,d,11,B.bl,d,d,B.az,B.ar,d),d)}}
 A.a5g.prototype={
@@ -65306,7 +65306,7 @@ q=n.f
 q=q.a===0?"\u306a\u3057":q.aX(0,"  ")
 p=n.r?"\u3042\u308a":"\u306a\u3057"
 o=n.w?"\u3042\u308a":"\u306a\u3057"
-n.y=s+" "+A.m(r)+"\u5186\n\u30d5\u30eb\u30fc\u30c4: "+q+"\n\ud83e\udd44 \u30b9\u30d7\u30fc\u30f3: "+p+"\n\ud83e\uddfb \u7d19\u30ca\u30d7\u30ad\u30f3: "+o+"\n\u7a0e\u629c: subtotal \u5186 / \u6d88\u8cbb\u7a0e(10%) : "+this.b+" \u5186\n\u5408\u8a08: "+this.c+" \u5186"},
+n.y=s+" "+A.m(r)+"\u5186\n\u30c8\u30c3\u30d4\u30f3\u30b0: "+q+"\n\ud83c\udf74 \u30d5\u30a9\u30fc\u30af: "+p+"\n\ud83d\udecd\ufe0f \u6301\u3061\u5e30\u308a\u888b: "+o+"\n\u7a0e\u629c: subtotal \u5186 / \u6d88\u8cbb\u7a0e(10%) : "+this.b+" \u5186\n\u5408\u8a08: "+this.c+" \u5186"},
 $S:0}
 A.rz.prototype={
 aH(a){var s,r,q=this.x,p=q.i(0,a)
@@ -70441,11 +70441,11 @@ B.Kx=new A.o(!0,B.F,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.KP=new A.o(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.Ix=new A.o(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.LF=new A.dg(B.JV,B.J4,B.JW,B.Kh,B.IP,B.IW,B.Jk,B.Kd,B.Jv,B.KA,B.Iq,B.IF,B.Kx,B.KP,B.Ix)
-B.LG=new A.hC("\u30d5\u30eb\u30fc\u30c4\u30c8\u30c3\u30d4\u30f3\u30b0\uff081\u7a2e\u985e100\u5186) ",null,null,null,null)
-B.LH=new A.hC("\u5546\u54c1\u3092\u9078\u3076",null,null,null,null)
-B.LI=new A.hC("\ud83c\udf66 Icecream \u5c4b\u53f0\u6ce8\u6587\u30a2\u30d7\u30ea",null,null,null,null)
-B.LJ=new A.hC("\u7121\u6599\u30b5\u30fc\u30d3\u30b9",null,null,null,null)
-B.LK=new A.hC("\u6ce8\u6587\u3059\u308b",null,null,null,null)
+B.LG=new A.hC("\u30c9\u30fc\u30ca\u30c4\u30fb\u30b9\u30a4\u30fc\u30c4\u3092\u9078\u3076",null,null,null,null)
+B.LH=new A.hC("\u7121\u6599\u30b5\u30fc\u30d3\u30b9",null,null,null,null)
+B.LI=new A.hC("\ud83c\udf69 \u30c9\u30fc\u30ca\u30c4\u5c4b\u3055\u3093\u6ce8\u6587\u30a2\u30d7\u30ea",null,null,null,null)
+B.LJ=new A.hC("\u6ce8\u6587\u3059\u308b",null,null,null,null)
+B.LK=new A.hC("\u30c8\u30c3\u30d4\u30f3\u30b0\uff081\u7a2e\u985e100\u5186) ",null,null,null,null)
 B.Et=new A.j(0.056,0.024)
 B.ED=new A.j(0.108,0.3085)
 B.Eq=new A.j(0.198,0.541)
